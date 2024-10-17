@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working as **Backend Engineer**
 
-- 🌱 I’m currently learning **GO lang, playing around with Langchain, aws-cdk...**
+- 🌱 I’m currently learning **GO lang, playing around with LLMs, aws-cdk, serverless apps...**
 
-- 👯 I’m looking to collaborate on **more cdk projects**
+- 👯 I’m looking to collaborate on **more cdk projects** or **backend developments**
 
 - 💬 Ask me about **scrapping, task automation, aws**
 
