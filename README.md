@@ -7,9 +7,7 @@
 
 - 👯 I’m looking to collaborate on **more cdk projects** or **backend developments**
 
-- 💬 Ask me about **scrapping, task automation, aws**
-
-- 📫 How to reach me **contact.kevin.herbas@gmail.com**
+- 💬 Ask me about **scrapping, task automation, aws, backend development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
