@@ -1,19 +1,36 @@
-<h1 align="center">Hi 👋, I'm Kevin</h1>
-<h3 align="center">Backend engineer | Serverless developer</h3>
+# ⚡ Kevin Herbas | Backend & AI Engineer | RAG, Automation, Scraping
 
-- 🔭 I’m currently working as **Backend Engineer**
+I design and build production-ready backends and applied AI systems. My work focuses on turning messy data into structured intelligence and creating automation pipelines that actually scale.
 
-- 🌱 I’m currently learning **GO lang, playing around with LLMs, aws-cdk, serverless apps...**
+- Reduced product compliance checks from 2 weeks to under 1 minute with AI
+- Automated discovery and analysis of 10k+ EU procurement tenders daily
+- Delivered fullstack scrapers and dashboards powering 120k+ listings per week
 
-- 👯 I’m looking to collaborate on **more cdk projects** or **backend developments**
+## 🚀 Highlight Projects
+- 🛡 Compliance AI Product Validator - Automated PDF & image checks with instant reporting
+- 🌍 Vitellus - European procurement intelligence platform with AI-powered insights
+- 🕷 KRAVEN - Scrapy + Django fullstack job scraper and dashboard
+- 🎨 Charis CLI - Open-source Gemini CLI for image generation and editing
 
-- 💬 Ask me about **scrapping, task automation, aws, backend development**
+More details and case studies available in pinned repositories.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kevin-herbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/kevin-herbas" height="30" width="40" /></a>
-</p>
+## 💡 Technical Philosophy
+I don't just build prototypes - I focus on production systems with monitoring, retries, and scalability. Most client work is private, but my public repos show how I approach backend engineering, RAG pipelines, and AI-powered automation with clean, maintainable code.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## 🛠 Core Tech Stack
+- **AI & LLMs:** OpenAI, Google Gemini, Mistral, Anthropic Claude
+- **Orchestration:** LangChain, LangGraph, PydanticAI, Llama-Index, custom pipelines
+- **Backend:** Python (FastAPI, Django, Flask), Node.js/TypeScript, Bun
+- **Data:** Supabase/Postgres (pgvector), Redis, FAISS
+- **Cloud & Infra:** AWS (Lambda, ECS, EventBridge, S3), Docker, CI/CD pipelines
+- **Scraping:** Playwright, Puppeteer, Scrapy
 
+## 🎯 Focus Areas
+- RAG pipelines and AI-powered assistants
+- Data scraping & automation at scale
+- Backend APIs and cloud architecture
+- Compliance and procurement intelligence systems
+
+## 🤝 Let's Build Something
+Looking to integrate AI into real-world products?
+Check my [Upwork profile](https://www.upwork.com/freelancers/~011223dd85a7163f29) or reach out on [kevinherbas.com](https://kevinherbas.com).
